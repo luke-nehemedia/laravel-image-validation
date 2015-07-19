@@ -1,4 +1,4 @@
-# laravel-image-validation
+# Laravel Image Validation (ServiceProvider)
 An Laravel 5 Serviceprovider for ImageValidationRules
 
 A German Blog post about this ServiceProvider can be found [here](http://luke.nehemedia.de/2015/07/10/laravel-5-image-validation/ ).
